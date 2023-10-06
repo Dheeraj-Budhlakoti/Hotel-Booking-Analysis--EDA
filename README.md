@@ -1,5 +1,5 @@
-
 # Hotel Booking Analysis - Exploratory Data Analysis Project
+<img align="centre" alt="https://user-images.githubusercontent.com/121357205/265205400-d52850a6-6a9b-498a-a79d-2e8cd248a7b6.gif">
 This project focuses on conducting exploratory data analysis (EDA) on a hotel booking dataset to gain insights into customer booking patterns, preferences, and trends. EDA is a crucial step in understanding the data and informing data-driven decisions for the hotel business.
 
 ## Project Structure
@@ -7,7 +7,7 @@ The project repository contains the following files and directories:
 
 * `data`: This directory holds the dataset used for conducting EDA. Ensure that the dataset is stored in the correct location before running the code.
 * `notebook`: This directory contains Jupyter notebook used for data exploration, visualization, and analysis.
-* `visualizations`: This directory stores visualizations generated during the EDA process.
+* `visualizations`: The notebook stores all visualizations generated during the EDA process.
 * `README.md`: This file provides a brief overview of the project and its contents.
 
 ## Getting Started
