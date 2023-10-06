@@ -1,5 +1,5 @@
 # Hotel Booking Analysis - Exploratory Data Analysis Project
-<img align="centre" alt="https://user-images.githubusercontent.com/121357205/265205400-d52850a6-6a9b-498a-a79d-2e8cd248a7b6.gif">
+
 This project focuses on conducting exploratory data analysis (EDA) on a hotel booking dataset to gain insights into customer booking patterns, preferences, and trends. EDA is a crucial step in understanding the data and informing data-driven decisions for the hotel business.
 
 ## Project Structure
